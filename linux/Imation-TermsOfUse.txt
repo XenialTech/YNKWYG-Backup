@@ -1,0 +1,330 @@
+IMATION TERMS OF USE AGREEMENT FOR INDIVIDUAL PRODUCTS
+Updated on: April 25, 2014
+
+These Terms of Use ("Terms of Use") set forth the legally binding terms of the agreement between Imation Corp.
+("Imation") and the End-User ("End-User"), using the Imation Individual or Enterprise Products (as applicable)
+and/or Imation Enterprise Services (known herein as "Imation Products or Services", “Imation Products and
+Services", "Imation Products" or "Services", as appropriate) and any accompanying computer software (“Software”)
+downloaded or delivered to the End-User or Customer (as defined below), acting either for themselves or as the
+legal representative ("Agent") of an entity ("Customer") purchasing Imation Products or Services or licensing
+Software. By accepting these Terms of Use, the Agent and Customer are legally bound to these Terms of Use.
+
+FOR ENTERPRISE USERS ONLY: Imation Services may include, if purchased by Customer, Imation’s enterprise
+administrative electronic service that includes centralized management for deployment and security policy
+configuration of Imation Products, enables certain applications and functionality as selected by Customer and is
+hosted on Imation servers (the “Hosted Service”) and technical support services provided by Imation (the “Support
+Services”).
+
+By using Imation Products, Software or Services, the End-User will be deemed to have agreed to and be bound by
+all of the provisions of these Terms of Use.  As used herein, Imation Products, Software and Services will refer only
+to those Imation Products, Software and Services purchased for or by the End-User and the End-User rights herein
+shall only extend to those Imation Products, Software and Services for which full payment has been made.
+
+In the event that you are the Agent of the Customer on whose behalf you will use or set up the Imation Products,
+Software or Services, you hereby represent and warrant that you are the duly authorized agent of such Customer
+and that such Customer (i) has received a copy of these Terms of Use; (ii) has duly and properly approved the
+purchase and use of the Imation Products, Software and Services on such Customer's behalf and has authorized
+you to enter into these binding Terms of Use by and on behalf of such Customer; and (iii) has agreed to pay all
+costs, fees and expenses which result from purchasing and using the Imation Products, Services and/or Software
+on behalf of such Customer. Without limiting anything contained herein, you and Customer acknowledge, accept
+and agree to indemnify, defend and hold Imation and its officers, directors, shareholders, employees, consultants,
+agents, partners, service providers, affiliates and licensors (collectively, "Indemnitees") harmless from any liabilities,
+claims, damages, costs and expenses (including reasonable attorneys’ fees) which arise from a breach of this
+representation by you or as a result of any action or omission by you. For purposes of these Terms of Use, the word
+"you" or "your" shall mean End-User, Agent, Customer, Customer as acting through its duly authorized Agent and
+any other person or entity which has agreed to these Terms of Use.
+
+When you click on the "I Agree" button, you agree that you are intending to create an electronic signature affirming
+your full understanding and agreement to be legally bound by all of these Terms of Use, and you are warranting that
+you have the power and authority to enter into these Terms of Use and are over the age of 18 years at the time you
+click on the "I Agree" button. Failure to agree to these Terms of Use will not diminish the rights you have under the
+Limited Device Warranty. These Terms of Use contain a procedure for dispute resolution - see Section 6.2.  Imation
+advises that you print and retain a copy of these Terms of Use before you click on the "I Agree" button. The most
+current version of these Terms of Use will always be available for your review under the Terms of Use link found on
+Imation’s website.
+
+1. PRODUCT USAGE REQUIREMENTS
+
+1.1 Use of Imation Product, Software and/or Services. You agree not to use the Imation Products, Software or
+Services to conduct any malicious activity or solicit the performance of any activity which is prohibited by law or any
+contractual provision by which you are bound. You agree to comply with all applicable laws, rules and regulations in
+connection with your use of the Imation Products, Software and/or Services.  You shall not, nor shall permit any
+party to: (i) disassemble, decompile, reverse engineer or otherwise attempt to derive source code or other trade
+secrets from the Imation Products or Services or any Software incorporated therein; (ii) rent, lend, lease or distribute
+any Imation Product, Service or Software, or any portion thereof; or (iii) or copy, alter, modify or adapt any Imation
+Product, Service or Software, or any portion thereof, except as expressly provided in Section 1.2 below.
+
+1.2 Grant of License. Subject to the terms and conditions set forth herein, Imation hereby grants you a nonexclusive,
+nontransferable right and license to use internally for data storage and security purposes: (i) the Software that is
+resident on a Product only on such Product and in accordance with the documentation accompanying such Product
+and, for Enterprise Users only, (ii) the Software that comprises a portion of the Hosted Service and is accessed over
+the Internet only for the management of Imation Products through the Hosted Service and in accordance with the
+documentation accompanying the Hosted Service. To the extent that the Customer is an entity purchasing Imation
+Products, Software and Services for use by End-Users employed by such Customer, these Terms of Use grant to
+such Customer a non-exclusive, non-transferable right and license to reproduce for and deliver to each End-User
+within such Customer’s employ who received an Imation Product, one copy of the Software to enable each such
+End-User to operate the Imation Product for its intended use. The foregoing licenses may not be transferred nor
+assigned. Except as expressly set forth herein with respect to Customers which are entities, no End-User nor any
+Customer may reproduce, distribute or modify, translate, adapt, arrange, or create derivative works based on the
+Software.  Any rights not granted herein are specifically retained by Imation.
+
+1.3 Equipment. You acknowledge that in addition to your purchase of the Imation, Software Products or Services,
+you are responsible for and must provide all computer hardware, Internet connection, telephone and other
+equipment, and operating system software necessary to access and use the Imation Products, Software and/or
+Services.
+
+1.4  Protection of Security Data. Personal information, usernames, passwords and prompts (collectively "Security
+Data") exchanged through the Imation Products, Services or Software are protected by advanced encryption
+techniques. However, these security measures still require your responsible behavior in protecting your Security
+Data. YOU SHALL ASSUME THE ENTIRE RESPONSIBILITY AT ALL TIMES FOR THE SUPERVISION,
+MANAGEMENT, CONTROL AND CONFIDENTIALITY OF YOUR SECURITY DATA AND ASSUME THE ENTIRE
+RISK FOR THE FRAUDULENT OR UNAUTHORIZED USE OF YOUR SECURITY DATA. YOU UNDERSTAND
+THAT FAILURE TO PROTECT YOUR SECURITY DATA MAY ALLOW AN UNAUTHORIZED PERSON OR
+ENTITY TO ACCESS YOUR IMATION PRODUCT, SOFTWARE AND/OR SERVICE.
+
+1.5 Notification of Others Upon Security Breach. If you believe an unauthorized disclosure of your Security Data has
+occurred, it is your responsibility to immediately notify each and every person and entity that is affected by such
+unauthorized disclosure.
+
+1.6 Privacy. Imation is committed to protecting your privacy. Any personal information gathered from you in
+connection with the Imation Products, Software and Services will be governed by the provisions of the Imation
+Privacy Policy.
+
+SECTIONS 1.7 AND 1.8 ARE APPLICABLE TO INDIVIDUAL USERS ONLY:
+
+1.7 Imation Product Fees. Except for the fees in connection with your initial purchase of the Imation Product, there
+are no required fees to use the Imation Product. However, Imation may charge additional fees in connection with
+certain additional services or to extend use of some services.
+
+1.8 Activation Procedure. During the activation process, you will be given an opportunity to create passwords and
+password prompts that will give you access to the Imation Product, Software, Materials and related services. The
+passwords and prompts can be changed at a later time by following the instructions on the Imation website. In order
+to activate the Imation Product, you may need to provide a valid email address (your "Personal Information"), which
+can be used to identify you, contact you regarding your account, and for additional authentication. Upon providing
+Imation with the information required in the online activation process, confirmation of receipt of the activation will be
+sent to you via email. Only upon submission of such confirmation of your activation will your Imation Product be
+activated with Imation.
+
+2. TERM AND TERMINATION
+
+2.1 Termination of Terms of Use. You may terminate these Terms of Use at any time by uninstalling and destroying
+all copies of the Software and ceasing to use the Imation Products and Services. Imation may terminate these
+Terms of Use immediately: (i) if you have breached these Terms of Use, (ii) if you have failed to make payments for
+the Imation Products, Software or Services or (iii) if Imation in its sole discretion believes it is required to do so by
+law.  At Imation’s sole discretion, Imation may terminate or suspend any feature or service contained in the Imation
+Product, Software or Service. If Imation terminates or suspends any feature or service, for reasons other than those
+listed in the prior sentence or in Section 2.2 (Section 2.2 is applicable to enterprise users only), Imation will either
+reimburse a pro-rata share of the fees paid, as determined by Imation in its sole discretion, for such feature or
+service, or substitute such feature or service with a substantially similar feature or service.
+
+SECTIONS 2.2 AND 2.3 ARE APPLICABLE TO ENTERPRISE USERS ONLY
+
+2.2 Automatic Renewal; Termination of Services. Services provided in connection with the Imation Product shall
+automatically renew for successive one-year terms at Imation’s then current pricing unless you provide written
+notice to Imation at least thirty days prior to the end of the current term of Service and close your account for the
+Imation Service.  Your notice should be sent via email to securitycs@Imation.com, or in writing to Imation's address
+at: 910 East Hamilton Ave, Suite 410, Campbell CA 95008.
+
+At Imation's sole option, Imation may suspend or terminate the Imation Service immediately: (i) if Imation suspects
+that someone other than you knows, is using or attempting to use your Security Data (although Imation has no
+obligation to investigate whether any such unauthorized use is occurring), (ii) if you have breached these Terms of
+Use, (iii) if you have failed to make payments for the Imation Services, or (iv) if Imation in its sole discretion believes
+it is required to do so by law.
+
+2.3 Reinstatement of Lapsed Services. If your Imation Service is suspended, your account number and data are
+maintained active for one year. If your Imation Service is not reinstated within such one year period, then your
+account and Imation Service will be terminated.  If there is a lapse in Services for any period of time, any
+subsequent purchase of Services, which will be permitted at Imation’s sole discretion, will be deemed purchased
+retroactive to the date on which any prior Services concluded and you will be charged with an additional twenty
+percent (20%) reinstatement fee for the lapsed support period. 
+
+2.4 Survival. Except for the provision of Imation Services hereunder, all applicable provisions of these Terms of Use
+shall survive termination, including, without limitation, provisions related to intellectual property, warranty
+disclaimers, limitations of liability, indemnification, and the miscellaneous provisions.
+
+3. WARRANTY, DISCLAIMER OF WARRANTY
+
+3.1 LIMITED DEVICE WARRANTY. Imation warrants that Imation Products meet all the published hardware
+specifications and are free of any material defects in materials or workmanship that would prevent such Imation
+Products from performing to the published hardware specifications for one (1) year from the date of purchase (for
+individual users) or  activation (for enterprise users) (the "Warranty Period").
+
+If any Imation Product fails to so conform, or proves to have any such defects during such Warranty Period, Imation,
+at its option, will provide you a new or refurbished Imation Product at no charge to you. The foregoing warranty (i)
+applies only to the Customer or Agent with proof of purchase, (ii) will not apply to Imation Products that have been
+damaged as a result of negligent handling, modification, disassembly or misuse, and (iii) will not apply to Imation
+Products that have self-destructed due to too many failed password attempts, as this represents proper functionality
+of the Imation Product.
+
+Imation Products are not warranted to operate without failure. Imation Products should only be incorporated in
+systems designed with appropriate redundancy, fault tolerance or back-up features.
+
+Accordingly, Imation does not recommend the use of Imation Products in life support systems or other applications
+where failure could cause injury or loss of life. Therefore if you decide to use Imation Products in connection with
+such applications you assume all risk of such use and agree to indemnify and hold harmless the Imation
+Indemnitees  against any liabilities, claims, damages, costs and expenses (including reasonable attorneys’ fees)
+which arise from such use.
+
+3.2 LIMITATION OF IMATION'S WARRANTY. EXCEPT AS EXPLICITLY SET FORTH ABOVE, THE IMATION
+PRODUCTS, SOFTWARE AND/OR SERVICES ARE PROVIDED "AS-IS" AND IMATION MAKES AND YOU
+RECEIVE NO WARRANTY (EXPRESS, IMPLIED OR STATUTORY) WITH RESPECT TO THE IMATION
+PRODUCTS, SOFTWARE OR SERVICES. IMATION EXPRESSLY DISCLAIMS ALL WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. YOU
+UNDERSTAND AND ACKNOWLEDGE THAT, EXCEPT AS EXPLICITLY SET FORTH ABOVE, IMATION DOES
+NOT WARRANT THAT THE IMATION PRODUCTS, SOFTWARE OR SERVICES WILL MEET YOUR
+REQUIREMENTS, OR THAT OPERATION OF THE IMATION PRODUCTS, SOFTWARE OR SERVICES WILL BE
+UNINTERRUPTED OR ERROR FREE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY
+IMATION, ITS EMPLOYEES, DISTRIBUTORS, DEALERS OR AGENTS SHALL CREATE ANY WARRANTY OF
+ANY KIND. SOME STATES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE
+EXCLUSION MAY NOT APPLY TO YOU. IN THAT EVENT, ANY IMPLIED WARRANTIES ARE LIMITED IN
+DURATION TO ONE (1) YEAR FROM THE DATE OF PURCHASE OF THE APPLICABLE IMATION PRODUCT
+OR SERVICE, AS THE CASE MAY BE. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS.
+
+3.3 LIMITATION ON INTERNATIONAL USE. IMATION DOES NOT MAKE ANY REPRESENTATION OR
+WARRANTY THAT ANY CONTENT OR USE OF THE IMATION PRODUCTS, SOFTWARE OR SERVICE IS
+APPROPRIATE OR AVAILABLE FOR USE IN LOCATIONS OUTSIDE OF THE UNITED STATES OR WHERE IT
+IS ILLEGAL OR PROHIBITED BY LAW OR BY IMATION.
+
+4. LIMITATION OF LIABILITY
+
+4.1 LIMITATION OF IMATION'S LIABILITY. IN NO EVENT WILL IMATION OR ANY OF ITS INDEMNITEES BE
+LIABLE FOR ANY CONSEQUENTIAL (INCLUDING WITHOUT LIMITATION, LOSS OF DATA, FILES, PROFIT OR
+GOODWILL OR THE COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICE), INDIRECT,
+INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, WHETHER IN AN ACTION UNDER CONTRACT,
+NEGLIGENCE OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OF
+USE, THE IMATION PRODUCTS, SOFTWARE OR SERVICES, THE INABILITY TO USE THE IMATION
+PRODUCTS, SOFTWARE OR SERVICES OR THOSE RESULTING FROM ANY MERCHANDISE OR SERVICES
+PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS EVEN IF IT HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WITHOUT LIMITING THE FOREGOING, IMATION
+SHALL NOT BE RESPONSIBLE UNDER ANY THEORY OF LIABILITY OR DAMAGES FOR ANY LOSS OF DATA
+AS A RESULT OF USE OF THE IMATION PRODUCTS, SOFTWARE OR SERVICES OR ANY COMPONENTS
+THEREIN. EXCEPT AS EXPLICITLY SET FORTH ABOVE, THE AGGREGATE LIABILITY OF IMATION, AND
+IMATION'S THIRD PARTY SERVICE PROVIDERS UNDER THESE TERMS OF USE SHALL NOT EXCEED ONE
+HUNDRED DOLLARS.
+
+4.2 NO LIABILITY FOR THIRD PARTY ACTIONS. EXCEPT WHERE APPLICABLE LAW REQUIRES A
+DIFFERENT RESULT, IMATION WILL NOT BE LIABLE FOR ANY LOSS OR LIABILITY RESULTING IN WHOLE
+OR IN PART FROM ANY ACT OR FAILURE TO ACT OF YOUR EQUIPMENT OR SOFTWARE, OR THAT OF A
+BROWSER PROVIDER, BY AN INTERNET ACCESS PROVIDER, BY AN ONLINE SERVICE PROVIDER OR BY
+AN AGENT OR SUBCONTRACTOR OF ANY OF THEM, NOR WILL IMATION OR IMATION'S SERVICE
+PROVIDERS OR OTHER AGENTS BE RESPONSIBLE FOR ANY DIRECT, INDIRECT, SPECIAL OR
+CONSEQUENTIAL, ECONOMIC OR OTHER DAMAGES ARISING IN ANY WAY OUT OF YOUR ACCESS TO OR
+USE OF, OR FAILURE TO OBTAIN ACCESS TO, THE IMATION PRODUCTS, SOFTWARE OR SERVICES.
+
+4.3 PERFORMANCE FAILURE. IN NO EVENT WILL IMATION BE LIABLE FOR ANY FAILURE OF
+PERFORMANCE DUE TO CIRCUMSTANCES BEYOND IMATION'S CONTROL (SUCH AS POWER OUTAGE,
+COMPUTER VIRUS, MALWARE, SPYWARE, KEY LOGGER APPLICATION, SYSTEM FAILURE, FIRE, FLOOD,
+EARTHQUAKE, TERRORISM, ACT OF WAR, OR EXTREME WEATHER).
+
+4.4 APPLICATION OF LIMITATIONS.  THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE
+OF AN ESSENTIAL PURPOSE OF ANY LIMITED REMEDY PROVIDED HEREIN. YOU ACKNOWLEDGE THAT
+BUT FOR THE FOREGOING DISCLAIMERS, THE FEES CHARGED FOR THE IMATION PRODUCTS AND
+SERVICES WOULD BE HIGHER.
+
+5. INDEMNIFICATION
+
+5.1 Indemnification. Except to the extent that Imation is liable to you under these Terms of Use, you agree to
+indemnify and hold Imation and its Indemnitees harmless from any and all third party claims, liability, damages
+and/or costs (including but not limited to reasonable attorneys’ fees) arising from (a) a third party claim, action, or
+allegation of infringement, misuse, or misappropriation based on information, data, files, or other materials submitted
+by you to us; (b) any breach of these Terms of Use or any fraud or manipulation; (c) any third party claim, action, or
+allegation brought against Imation arising out of or relating to a dispute with you over the Terms of Use or purchase
+or sale of any goods; (d) your violation of any law or rights of a third party; (e) your use, or use of your account by
+any third party who has your permission to use your Security Data; or (f) any claim arising out of a loss of personal
+or proprietary data of you or others. Imation reserves the right, at its own expense, to assume the exclusive defense
+and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with Imation
+in asserting any available defenses. You will not settle any action or claims on behalf of Imation without the prior
+written consent of Imation. This indemnification is provided without regard to whether Imation's claim for
+indemnification is due to the use of the Imation Products, Software or Services by you or your authorized
+representative.
+
+6. GENERAL PROVISIONS
+
+6.1 Modifications. Except as otherwise required by law, rule, or regulation, Imation may change the terms of these
+Terms of Use from time to time and at any time. When changes are made, Imation will update these Terms of Use
+on our website. The website will be updated on the effective date, unless an immediate change is necessary to
+maintain the security of the system or unless a law, rule or regulation requires that it be updated an earlier time. If
+such a change is made, and it can't be disclosed without jeopardizing the security of the system, these Terms of
+Use will be updated within thirty (30) days after the change. You will be notified as soon as possible when any
+changes are made which materially affect your rights, such as changes regarding how your information is
+maintained or used. As always, you may choose to accept or decline changes by continuing or discontinuing use of
+the Imation Products, Software and/or Services. It is your responsibility to review these Terms of Use including the
+Privacy Policy from time to time in order to be aware of any such changes.
+
+6.2 Dispute Resolution and Governing Law. The parties agree that any dispute or controversy arising out of, in
+relation to, or in connection with these Terms of Use, or the validity, enforceability, construction, performance or
+breach thereof, shall be settled by binding arbitration in St. Paul, Minnesota, USA by one (1) arbitrator mutually
+agreeable to the parties, or, if the parties cannot agree, as otherwise provided by the rules of the American
+Arbitration Association. Nothing in this clause shall preclude parties from seeking provisional remedies in aid of
+arbitration from a court of appropriate jurisdiction. The decision and/or award rendered by the arbitrator shall be
+written, final and non-appealable and may be entered in any court of competent jurisdiction. The parties agree that,
+any provision of applicable law notwithstanding, they will not request, and the arbitrator shall have no authority to
+award, punitive or exemplary damages against any party. The costs of any arbitration, including administrative fees
+and fees of the arbitrator, shall be shared equally by the parties. Each party shall bear the cost of its own attorneys'
+fees and expert fees. These Terms of Use will be construed and interpreted in accordance with the laws of the State
+of Minnesota, without reference to its conflict-of-laws rules. The sole jurisdiction and venue for actions related to the
+subject matter hereof brought before the courts shall be the Minnesota state and U.S. federal courts located in St.
+Paul, Minnesota.
+
+6.3 Assignment. Imation may assign its interest, or assign or delegate any of its rights and responsibilities under
+these Terms of Use to independent contractors or any other party. You may not assign or transfer any of your rights
+or obligations under these Terms of Use.
+
+6.4 NOTICES. UNLESS OTHERWISE REQUIRED BY APPLICABLE LAW, IN THE EVENT THAT IMATION IS
+REQUIRED TO PROVIDE A NOTICE OR OTHER COMMUNICATION TO YOU IN WRITING, THAT NOTICE OR
+OTHER COMMUNICATION MAY BE SENT TO YOU ELECTRONICALLY TO YOUR INTERNET ADDRESS AS
+REFLECTED IN IMATION'S THEN CURRENT RECORDS.
+
+6.5. Proprietary Rights. Other than your personal information and other data stored by you on the Imation Products,
+the Imation Products, Software, Services and all intellectual property rights contained therein and thereto are the
+property of Imation and/or third party licensors of Imation. You may not rent, lend or lease any Imation Product,
+Software or Service, or any portion thereof. You may not copy, alter, modify or adapt any Imation Product, Software
+or Service or accompanying materials or reverse engineer, decompile, disassemble, modify or create derivative
+works from any Imation Product, Software or Service. The collection, arrangement, and assembly of all content on
+the Imation Products and Software is the exclusive property of Imation and/or it licensors and is protected by
+copyright or other intellectual property rights. The trademarks, logos, and Imation Products, Software and Services
+marks displayed on the Imation Products and Software and in connection with the Imation Services (collectively the
+"Trademarks") are the registered and unregistered trademarks of Imation. Under no circumstances may you use
+copy, alter, modify, or change these Trademarks or any other proprietary markings on the Imation Products or
+Software. Nothing contained on the Imation Products or Software or in connection with the Imation Services should
+be construed as granting by implication or otherwise any license or right to use any intellectual property right of
+Imation without the express written permission of Imation.
+
+6.6. Entire Agreement. These Terms of Use and any Imation order form pursuant to which you ordered the
+applicable Imation Products, Software or Services, represent the sole and exclusive agreement between you and
+Imation regarding the applicable Imation Products , Software and/or Services and merges and supersedes all
+previous and contemporaneous written or oral agreements and understandings regarding the subject matter hereof.
+If any provision of these Terms of Use is held to be invalid or otherwise unenforceable, the remainder of the
+provisions shall remain in full force and effect and shall in no way be invalidated or otherwise affected.
+
+6.7 Miscellaneous. Headings are for reference only and in no way define, limit, construe, or describe the scope or
+extent of such section. Imation's failure to act with respect to a breach by you or others does not waive its right to act
+with respect to subsequent or similar breaches.
+
+6.8 Force Majeure.  Imation will not be liable for and will not be responsible to you for any delay or failure to perform
+under these Terms of Use if such delay or failure results from fire, explosion, labor dispute, earthquake, casualty or
+accident, lack of or failure of transportation facilities and/or services, lack of or failure of telecommunications facilities
+and/or services including internet services, epidemic, flood, drought, war, revolution, civil commotion, blockade or
+embargo, act of God, any inability to obtain any requisite license, permit or authorization, or any other cause
+whatsoever, whether similar or dissimilar to those enumerated, beyond the reasonable control of Imation.
+
+6.9 No Duty to Monitor. Imation does not have any duty to monitor the payments or other transactions that are made
+in connection with the Imation Products, Software or Services.
+
+6.10 Government Licensee. The Government acknowledges Imation's representation that the Imation Products and
+Software contain "Restricted Computer Software" as that term is defined in Clause 52.227 19 of the Federal
+Acquisition Regulations (FAR) and contain "Commercial Computer Software" as that term is defined in Subpart
+227.471 of the Department of Defense Federal Acquisition Regulation Supplement (DFARS). The Government
+agrees that (i) if the Software is supplied to the Department of Defense (DoD), the Software is classified as
+"Commercial Computer Software" and the Government is acquiring only "restricted rights" in the Software and its
+documentation as that term is defined in Clause 252.227 7013(c)(1) of the DFARS, and (ii) if the Software is
+supplied to any unit or agency of the United States Government other than DoD, the Government's rights in the
+Software and its documentation will be as defined in Clause 52.227 19(c)(2) of the FAR.
+Use, duplication or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of
+the Rights in Technical Data and Computer Software clause at DFARS 252.227 7013.  Imation Corp. 910 East
+Hamilton Ave, Suite 410, Campbell CA 95008.
+
+6.11 Export Law Compliance. Regardless of any disclosure made to Imation of the ultimate destination of the
+Imation Products, Software or Service, you warrant that you will not export, directly or indirectly, any Imation
+Product, Software or Service without first obtaining the approval of Imation and the appropriate export license from
+the Department of Commerce or other agency of the United States Government.

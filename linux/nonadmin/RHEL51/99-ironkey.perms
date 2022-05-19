@@ -1,0 +1,29 @@
+#
+# Permissions for allowing console users to access plugged in IronKey devices
+# The IronKey unlocker needs access to low-level SCSI functionality (the /dev/sg*
+# file associated with the IronKey). By default this is not allowed for ordinary
+# users. We do not want to give access to all /dev/sg* files (that would be a huge
+# security hole) so instead we rely on udev rules to recognize plugged in IronKeys
+# and grant permission only to those specific devices.
+#
+
+# device classes
+# this relies on /etc/udev/rules.d/99-ironkey.rules to set up symlinks
+
+# ironkey generic devices
+<ikgeneric>=/dev/ikgeneric*
+
+# ironkey hard drives
+<ironkey>=/dev/ironkey*
+
+# permissions
+# This will set the owner of ironkey generic devices to be the person 
+# currently logged in on the console, with permissions 0600. If that
+# person logs out, permissions will change to 0660, with owner root and
+# group disk
+
+<console> 0600 <ikgeneric> 0660 root.disk
+
+# similarly set up permissions for the ironkey block devices
+<console> 0640 <ironkey> 0640 root.disk
+

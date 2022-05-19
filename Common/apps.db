@@ -1,0 +1,56 @@
+<!--
+<OS> values are,
+All = -1
+Windows = 0
+Mac = 1,
+Linux = 2
+-->
+
+<!--
+<ViewType> values are,
+Large Icons = 0,
+List View = 1,
+Tile View = 2
+-->
+
+<ViewType>2</ViewType>
+
+<AppFormatVersion>1.0</AppFormatVersion>
+
+<AdditionalApplications>
+	<Appl>
+		<Identifier>100</Identifier>
+		<AppPath>1:/Documents/Basic/Basic User Guide.pdf</AppPath>
+		<Args></Args>
+		<IconPath></IconPath>
+		<DisplayName>User Guide</DisplayName>
+		<Summary></Summary>
+		<Url></Url>
+		<InternalVersion>1</InternalVersion>
+		<OS>-1</OS>
+	</Appl>
+
+	<Appl>
+		<Identifier>200</Identifier>
+		<AppPath>1:/Documents/Personal/Personal User Guide.pdf</AppPath>
+		<Args></Args>
+		<IconPath></IconPath>
+		<DisplayName>User Guide</DisplayName>
+		<Summary></Summary>
+		<Url></Url>
+		<InternalVersion>1</InternalVersion>
+		<OS>-1</OS>
+	</Appl>
+
+	<Appl>
+		<Identifier>300</Identifier>
+		<AppPath>1:/Documents/Enterprise/Enterprise User Guide.pdf</AppPath>
+		<Args></Args>
+		<IconPath></IconPath>
+		<DisplayName>User Guide</DisplayName>
+		<Summary></Summary>
+		<Url></Url>
+		<InternalVersion>1</InternalVersion>
+		<OS>-1</OS>
+	</Appl>
+</AdditionalApplications>

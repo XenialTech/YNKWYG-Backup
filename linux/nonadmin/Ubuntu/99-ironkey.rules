@@ -1,0 +1,19 @@
+#
+# udev rules for setting up symbolic links for ironkeys
+# These create links like:
+#   /dev/ikgeneric-0
+#   /dev/ikgeneric-1
+# for generic devices associated with plugged in IronKeys.
+# A console rules file can use these to give console users
+# permission to access the IronKeys.
+#
+
+# generic devices: name these ikgeneric
+KERNEL=="sg*",ATTRS{manufacturer}=="IronKey",	SYMLINK="ikgeneric-%n", GROUP="cdrom"
+
+# hard disk devices: name these ironkey
+KERNEL=="sd*",ATTRS{manufacturer}=="IronKey",	SYMLINK="ironkey-%n", GROUP="cdrom"
+
+# CD devices
+KERNEL=="sr*",ATTRS{manufacturer}=="IronKey",	SYMLINK="ikcd-%n", GROUP="cdrom"
+

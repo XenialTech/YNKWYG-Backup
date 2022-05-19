@@ -1,0 +1,21 @@
+ASN.1 by Lev Walkin
+
+cURL by Daniel Stenberg
+
+Drag&Drop4 by Anders Melander
+
+eXpat by eXpat Maintainers
+
+GraphicEx by Soft-Gems
+
+Info-ZIP UnZip DLL by Greg Roelofs
+
+OpenSSL by The OpenSSL Project
+
+SpiderMonkey by Mozilla
+
+TinyXML by Lee Thomason
+
+zlib by Jean-loup Gailly and Mark Adler
+
+virtualKeyBoard by Giovanni Romano

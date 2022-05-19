@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.0.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>5.0.0.0</string>
+	<key>CFBundleIconFile</key>
+	<string>IKLogin.icns</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleSignature</key>
+	<string>IKap</string>
+	<key>CFBundleExecutable</key>
+	<string>IronKey</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.IronKey.IronKeyCP</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleName</key>
+	<string>IronKey</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>LSMultipleInstancesProhibited</key>
+	<true/>
+	<key>UIApplicationExitsOnSuspend</key>
+	<true/>
+</dict>
+</plist>

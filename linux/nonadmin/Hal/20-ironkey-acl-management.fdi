@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<deviceinfo version="0.2">
+  <device>
+
+    <!-- IronKey devices -->
+
+    <!-- cdrom sg device -->
+    <match key="info.capabilities" contains="scsi_generic">
+      <match key="@info.parent:scsi.type" contains="cdrom">
+        <match key="@info.parent:scsi.vendor" contains="IronKey">
+          <append key="info.capabilities" type="strlist">access_control</append>
+          <merge key="access_control.file" type="copy_property">scsi_generic.device</merge>
+          <merge key="access_control.type" type="string">ironkey</merge>
+        </match>
+      </match>
+    </match>
+
+    <!-- encrypted drive disk device -->
+    <match key="storage.drive_type" contains="disk">
+      <match key="info.vendor" contains="IronKey">
+        <append key="info.capabilities" type="strlist">access_control</append>
+        <merge key="access_control.file" type="copy_property">block.device</merge>
+        <merge key="access_control.type" type="string">ironkey</merge>
+      </match>
+    </match>
+
+    <!-- add / remove ACL's when devices are added and removed -->
+    <match key="info.capabilities" contains="access_control">
+      <append key="info.callouts.add" type="strlist">hal-acl-tool --add-device</append>
+      <append key="info.callouts.remove" type="strlist">hal-acl-tool --remove-device</append>
+    </match>
+
+  </device>
+</deviceinfo>
